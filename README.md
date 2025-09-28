@@ -41,7 +41,7 @@ Good morning Universe
 
 ```bash
 # Clone the repository
-git clone <your-github-repo-url>
+git clone https://github.com/Dxminick-alt/gitdemo.git
 cd gitdemo
 
 # Compile and run with Maven

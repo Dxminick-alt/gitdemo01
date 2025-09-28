@@ -7,8 +7,10 @@
 **Special Features:** Mongolian greetings with ASCIIRenderer utility class
 
 ## GitHub Repository Information
-**GitHub Repository URL:** [To be created - requires GitHub account setup]  
-**Note:** This project is ready to be pushed to GitHub once a repository is created.
+**GitHub Username:** Dxminick-alt  
+**GitHub Repository URL:** https://github.com/Dxminick-alt/gitdemo  
+**Repository Name:** gitdemo  
+**Note:** Project is ready to be pushed to GitHub repository.
 
 ## Project Structure
 ```
