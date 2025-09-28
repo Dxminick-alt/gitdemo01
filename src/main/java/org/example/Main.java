@@ -11,8 +11,8 @@ public class Main {
         return "Hello";
     }
 
-    // Method 2: To be modified in branchB
+    // Method 2: Modified in branchB
     public static String getName() {
-        return "World";
+        return "Universe";
     }
 }
