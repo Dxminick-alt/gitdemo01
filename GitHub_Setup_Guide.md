@@ -7,7 +7,7 @@
 2. Click the "+" icon in the top right corner
 3. Select "New repository"
 4. Fill in the details:
-   - **Repository name:** `gitdemo`
+   - **Repository name:** `gitdemo01`
    - **Description:** `Git branching and merging demonstration with Mongolian greetings`
    - **Visibility:** Public (recommended for homework submission)
    - **Initialize:** Do NOT check "Add a README file" (we already have one)
@@ -22,7 +22,7 @@ Open terminal in your project directory and run these commands:
 cd /Users/domdom/IdeaProjects/untitled2
 
 # Add GitHub remote repository
-git remote add origin https://github.com/Dxminick-alt/gitdemo.git
+git remote add origin https://github.com/Dxminick-alt/gitdemo01.git
 
 # Verify the remote was added correctly
 git remote -v
@@ -52,13 +52,13 @@ After pushing, your GitHub repository should contain:
 
 **Main Repository URL:**
 ```
-https://github.com/Dxminick-alt/gitdemo
+https://github.com/Dxminick-alt/gitdemo01
 ```
 
 **Raw Files URLs (for direct access):**
-- Solution Document: `https://github.com/Dxminick-alt/gitdemo/blob/main/GitDemo_Solution_Document.md`
-- README: `https://github.com/Dxminick-alt/gitdemo/blob/main/README.md`
-- Main Code: `https://github.com/Dxminick-alt/gitdemo/blob/main/src/main/java/org/example/Main.java`
+- Solution Document: `https://github.com/Dxminick-alt/gitdemo01/blob/main/GitDemo_Solution_Document.md`
+- README: `https://github.com/Dxminick-alt/gitdemo01/blob/main/README.md`
+- Main Code: `https://github.com/Dxminick-alt/gitdemo01/blob/main/src/main/java/org/example/Main.java`
 
 ### 5. Taking Screenshots for Homework
 
@@ -76,7 +76,7 @@ git branch -a
 
 #### GitHub Repository Screenshot
 Take a screenshot of your GitHub repository page showing:
-- Repository name: gitdemo
+- Repository name: gitdemo01
 - All branches visible
 - Commit history
 - File structure
@@ -115,7 +115,7 @@ If you encounter any issues:
 ```bash
 # If you need to start over
 git remote remove origin
-git remote add origin https://github.com/Dxminick-alt/gitdemo.git
+git remote add origin https://github.com/Dxminick-alt/gitdemo01.git
 ```
 
 **Push Rejected:**
@@ -127,7 +127,7 @@ git push origin main
 
 ## Homework Submission Checklist
 
-- [ ] GitHub repository created: https://github.com/Dxminick-alt/gitdemo
+- [ ] GitHub repository created: https://github.com/Dxminick-alt/gitdemo01
 - [ ] All branches pushed to GitHub
 - [ ] Screenshots taken of git log showing branch history
 - [ ] Screenshots taken of GitHub repository
@@ -140,7 +140,7 @@ git push origin main
 
 **Submit this URL in your homework:**
 ```
-https://github.com/Dxminick-alt/gitdemo
+https://github.com/Dxminick-alt/gitdemo01
 ```
 
 This repository demonstrates complete Git workflow mastery with branching, merging, and multilingual programming capabilities.

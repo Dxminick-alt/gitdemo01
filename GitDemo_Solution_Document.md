@@ -8,8 +8,8 @@
 
 ## GitHub Repository Information
 **GitHub Username:** Dxminick-alt  
-**GitHub Repository URL:** https://github.com/Dxminick-alt/gitdemo  
-**Repository Name:** gitdemo  
+**GitHub Repository URL:** https://github.com/Dxminick-alt/gitdemo01  
+**Repository Name:** gitdemo01  
 **Note:** Project is ready to be pushed to GitHub repository.
 
 ## Project Structure

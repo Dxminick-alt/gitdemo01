@@ -13,7 +13,7 @@ A comprehensive Git demonstration project showcasing branch creation, developmen
 ## 📁 Project Structure
 
 ```
-gitdemo/
+gitdemo01/
 ├── src/main/java/org/example/
 │   ├── Main.java           # Main application with greeting methods
 │   └── ASCIIRenderer.java  # ASCII art utility class
@@ -41,8 +41,8 @@ Good morning Universe
 
 ```bash
 # Clone the repository
-git clone https://github.com/Dxminick-alt/gitdemo.git
-cd gitdemo
+git clone https://github.com/Dxminick-alt/gitdemo01.git
+cd gitdemo0101
 
 # Compile and run with Maven
 mvn compile exec:java -Dexec.mainClass="org.example.Main"
