@@ -1,3 +1,6 @@
+# gitdemo01
+This demo for today
+>>>>>>> 6daedef53daac29d7fca99ede08457fccb3aae73
 # GitDemo - Branching and Merging Demonstration
 
 A comprehensive Git demonstration project showcasing branch creation, development, and manual merging with multilingual support.
@@ -42,7 +45,7 @@ Good morning Universe
 ```bash
 # Clone the repository
 git clone https://github.com/Dxminick-alt/gitdemo01.git
-cd gitdemo0101
+cd gitdemo01
 
 # Compile and run with Maven
 mvn compile exec:java -Dexec.mainClass="org.example.Main"
@@ -104,3 +107,7 @@ For complete project details, implementation notes, and Git rollback procedures,
 
 ---
 *Created as part of Git workflow demonstration and best practices learning.*
+=======
+# gitdemo01
+This demo for today
+>>>>>>> 6daedef53daac29d7fca99ede08457fccb3aae73
