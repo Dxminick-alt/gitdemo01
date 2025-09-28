@@ -5,7 +5,7 @@ This demo for today
 
 A comprehensive Git demonstration project showcasing branch creation, development, and manual merging with multilingual support.
 
-## 🚀 Features
+## Features
 
 - **Multi-branch Development:** Demonstrates parallel development across multiple branches
 - **Manual Merging:** Shows proper merge strategies and conflict resolution
@@ -13,7 +13,7 @@ A comprehensive Git demonstration project showcasing branch creation, developmen
 - **ASCII Art Rendering:** Custom utility class for text decoration and formatting
 - **Maven Integration:** Professional Java project structure with Maven build system
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 gitdemo01/
@@ -24,7 +24,7 @@ gitdemo01/
 └── GitDemo_Solution_Document.md  # Complete project documentation
 ```
 
-## 🌟 Program Output
+## Program Output
 
 ```
 Hello World!
@@ -40,7 +40,7 @@ Good morning Universe
 ***********
 ```
 
-## 🔧 How to Run
+## How to Run
 
 ```bash
 # Clone the repository
@@ -51,14 +51,14 @@ cd gitdemo01
 mvn compile exec:java -Dexec.mainClass="org.example.Main"
 ```
 
-## 🌿 Branch Development History
+## Branch Development History
 
 - **main:** Initial setup and merged changes
 - **branchA:** Modified greeting method to "Good morning"
 - **branchB:** Modified name method to "Universe" 
 - **branchC:** Added Mongolian greetings with ASCIIRenderer support
 
-## 📊 Git History Visualization
+## Git History Visualization
 
 ```
 *   b4ddc5d (HEAD -> main) Merge branchC: Added Mongolian greetings with ASCIIRenderer
@@ -77,11 +77,11 @@ mvn compile exec:java -Dexec.mainClass="org.example.Main"
 * ca8794a Initial commit: Hello World program with two methods
 ```
 
-## 🔄 Git Rollback Reference
+## Git Rollback Reference
 
 This project includes comprehensive documentation for Git rollback procedures suitable for solo development. See `GitDemo_Solution_Document.md` for detailed rollback strategies.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Java 24**
 - **Maven 3.x**
@@ -89,7 +89,7 @@ This project includes comprehensive documentation for Git rollback procedures su
 - **Unicode/UTF-8 Encoding**
 - **IntelliJ IDEA**
 
-## 📚 Learning Objectives
+## Learning Objectives
 
 This project demonstrates:
 - ✅ Git branch creation and management
@@ -100,7 +100,7 @@ This project demonstrates:
 - ✅ Maven project structure
 - ✅ Professional documentation practices
 
-## 📄 Documentation
+## Documentation
 
 For complete project details, implementation notes, and Git rollback procedures, see:
 - [GitDemo_Solution_Document.md](GitDemo_Solution_Document.md)
