@@ -6,9 +6,9 @@ public class Main {
         System.out.println(getGreeting() + " " + getName());
     }
 
-    // Method 1: To be modified in branchA
+    // Method 1: Modified in branchA
     public static String getGreeting() {
-        return "Hello";
+        return "Good morning";
     }
 
     // Method 2: To be modified in branchB
